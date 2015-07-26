@@ -1,0 +1,19 @@
+_tmp/labs/coroutine.cc.f2e570cf5391eecb277459aff5f257e1.dep  ./_tmp/labs/coroutine.f2e570cf5391eecb277459aff5f257e1.o: \
+ labs/coroutine.cc labs/coroutine.h labs/shell.h util/config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdint-gcc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stddef.h util/coroutine.h
+
+labs/coroutine.h:
+
+labs/shell.h:
+
+util/config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdint-gcc.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.7/include/stddef.h:
+
+util/coroutine.h:
